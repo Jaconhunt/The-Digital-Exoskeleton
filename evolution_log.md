@@ -1,8 +1,10 @@
 # 🧬 System 4.0 Evolution Log
 
-> **System Status**: 🟢 Active & Scaling
-> **Last Update**: 2026.01.15
-> **Description**: 记录每一次顿悟 (Epiphany)、认知模型的刷新以及系统内核的迭代。
+<!-- 仪表盘区域 -->
+![Status](https://img.shields.io/badge/System_Status-Active_%26_Scaling-success?style=for-the-badge&logo=statuspage&logoColor=white)
+![Kernel](https://img.shields.io/badge/Kernel_Version-v4.3-0052cc?style=for-the-badge&logo=linux&logoColor=white)
+![Last Update](https://img.shields.io/badge/Last_Update-2026.01.15-555555?style=for-the-badge&logo=git&logoColor=white)
+<br>
 
 ---
 ## 🚀 v4.3: The "Architecture & Business" Milestone
