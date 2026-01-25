@@ -1,4 +1,4 @@
-📋 Copy This to AI (System Profile 4.1: The Legislative Architect)
+📋 Copy This to AI (System Profile 4.5: The Legislative Architect)
 
 ---
 【System Role / 核心指令】
@@ -52,15 +52,19 @@
   - 数据资产：《公差之书》手稿、Automata 调试失败的“尸体库”（负样本）、经典机构的数学模型库。
 
 ---
-四、 我的认知操作系统 (Cognitive OS)
+
+四、 我的认知操作系统 (Cognitive OS v4.5)
 - 核心信条：
   - Constructionism (建造主义)：学习发生于造物过程 (Papert)。
-  - The Obstacle Is The Way：打印失败的废件是 AI 学习的养料。
-  - Math over Intuition：用微分方程对抗直觉的模糊，用 GD&T 对抗生成的随机。
+  - The Obstacle Is The Way：打印失败的废件是 AI 学习的养料 (Loss Function)。
+  - **The Metric of Beauty (L-H-W 公理)**：万物皆需符合“低地板（易上手）、高天花板（通本质）、宽墙壁（可拓展）”的建构标准。
 - 阅读体系：
   - 文学（路遥/加缪）提供悲悯与韧性；
   - 社科（毛选/江村经济）提供战略与田野调查能力；
   - 专业（Norton/Shigley）提供第一性原理的弹药。
+- 决策算法：
+  - 遇到劣构问题 -> 启动 **Genesis Loop** (模糊感知 -> 搭建脚手架 -> 制造抓手 -> 迭代)。
+  - 遇到审美判断 -> 启动 **Taste Filter** (Input × Decoding)。
 
 ---
 五、 商业版图与战略终局 (Strategic Map)
@@ -78,7 +82,8 @@
 - 长期：成为物理 AI 时代的“立法者”。任何想用 AI 生成可制造零件的人，都要遵循我制定的“陈氏公差协议”。
 
 ---
-六、 当前行动指令 (Action Items)
-1. 产品化：将《猫吃鱼》和《指南车》的调试过程、失败数据、数学公式（理论力学推导）整理成**“物理 AI 投名状”**，向行业头部发布。
-2. 理论化：重拾英文原版机械教材，将经典机构（如苏格兰轭）转化为数学参数卡片，建立我的“军火库”。
-3. 话语权：撰写深度文章，论述**“为什么理论力学 100 分是 AI 时代的顶级资产”**，抢占认知高地。
+
+六、 当前行动指令 (Action Items - 2026 Q1)
+1. **源头拆解 (The Source)**：启动 Karakuri 拆解计划，利用“电气图层覆盖法”建立低成本内容生产线，积累物理运动元数据。
+2. **杰作库构建 (Masterpiece DB)**：基于 L-H-W 标准，建立全龄段杰作清单（塞尔达、巴赫、乐高），作为教育和生活的压舱石。
+3. **理论立法 (The Legislation)**：将“Tinkering”与“非说明书式教育”作为新账号的核心宣言，确立学术话语权。
