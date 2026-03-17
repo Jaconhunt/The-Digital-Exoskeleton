@@ -11,6 +11,36 @@
 
 ---
 
+## 🧬 v4.7: The "Cognitive Friction" & AI-Era Constructionism
+> **Date**: 2026.03.17 | **Event**: 厘清建构与建造的区别，融合《人工科学》，重构 AI 时代编程教育的底层公理
+
+### 🧠 New Insights (新增观点)
+
+*   **“造轮子”的建造主义解释 (Constructionism: Objects to Think With)**
+    *   *Papert 视角*：皮亚杰的“建构主义（Constructivism）”只讲了大脑内的知识同化；而帕普特的“建造主义（Constructionism）”强调必须通过**造物（制造可触及的数字或物理实体）**来学习。编程中的“造轮子”，本质上是为大脑搭建**“用来思考的客体（Objects to think with）”**。
+    *   *核心洞察*：在 AI 时代亲手造“玩具级轮子”，**不是为了获取工业产品，而是为了完成神经元的物理连接**。Vibecoding 的致命诱惑在于它直接交付了最终客体，却剥夺了人类与逻辑材料发生“建造摩擦”的过程。没有这个流汗的建造过程，知识就是虚假的繁荣（Illusion of Competence）。
+*   **边界定义的转移 (The Shifting Boundary of the Artificial)**
+    *   *Simon 视角*：西蒙在《人工科学》中指出，任何人工物都是“内部环境（系统本身的结构）”和“外部环境（系统运作的现实世界）”的结合部。
+    *   *核心洞察*：过去十年，程序员极度内耗于构建“内部环境”（写基础代码、排查语法 Bug）。如今，以 OpenClaw 为代表的 AI 瞬间填平了内部环境的沟壑。因此，**人类的专长必须彻底向“外部环境的约束设计（Constraint Design）”转移**——即精准定义业务的边界条件、物理世界的公差（GD&T）、以及极端环境下的失效模式。**不懂物理约束的 AI，只会输出无穷无尽的熵。**
+*   **战略性摩擦 (Strategic Friction)**
+    *   这是对抗“OpenClaw 轮椅效应”与“专家飞行员退化悖论”的唯一工程解法。
+    *   在教学与自我进化中，必须人为地在关键节点（如核心架构设计、底层物理参数映射）**关闭全自动 AI 辅助**，引入“适度困难（Desirable Difficulty）”。将 Dirty Work 外包给 AI，但将决定生死与品味的 Hard Work 留在自己手中打磨，保持对底层逻辑的“肌肉记忆”与系统空间感。
+
+### 📐 Refined Definitions (修正定义)
+
+| Concept | Old Definition | **New Definition (v4.7)** | Rationale |
+| :--- | :--- | :--- | :--- |
+| **Constructivism vs. Constructionism** | 混为一谈的学习理论 | **认知内化 (建构)** vs. **通过造物来认知 (建造)** | 确立“实体/数字造物（Artifacts）”在 AI 教育中不可替代的必要性。 |
+| **Coding (编程)** | 编写控制计算机的指令 | **Constraint Design (约束设计)** | 不再是向机器下达执行步骤，而是为 AI 生成器设定极其严格的物理边界与公差逻辑。 |
+| **Wheel-building (造轮子)** | 重复造出已有的技术浪费时间 | **Cognitive Scaffolding (认知脚手架)** | 它是初学者在大脑中建立系统空间感、获取“隐性知识”的必经摩擦力，而非追求商业价值的工业品。 |
+| **Vibecoding (意图编程)** | 用自然语言写代码的快捷工具 | **High-Level Orchestration (高维编排)** | 只有亲手“造过轮子”的人，才能将其作为降维打击的“战甲”；对跳过建造过程的小白而言，它是封锁认知天花板的“轮椅”。 |
+
+### ✅ Action Items (待办事项)
+
+- [ ] **宣言增补**: 在《数字工匠蓝图》的开源架构中，加入“战略性摩擦（Strategic Friction）”这一教学原则。明确提出：**我们要教的不是如何用 AI 省事，而是如何用 AI 探究更深层的物理现实。**
+- [ ] **业务赋能 (The VAST Protocol)**: 将西蒙的理论应用到 Tripo 的物理模型生成业务中。制定红线规范：AI 负责生成皮囊（内部环境填充），人类负责输入西蒙式的“外部环境约束（如受力边界、运动干涉分析）”，两者权责隔离，不可越俎代庖。
+- [ ] **认知输出**: 撰写并发布深度文章《当 AI 越过 Dirty Work：为什么我们必须人为制造“战略性摩擦”？》，将“飞行员悖论”与“建造主义”的结合打向市场，抢占物理 AI 教育的认知高地。
+
 ## 🧬 v4.6: The "Open-Source Exoskeleton" & "Embodied Monitoring"
 > **Date**: 2026.02.24 | **Event**: 确立《数字工匠蓝图》开源架构 & 部署可视化 RPM 节流阀
 
