@@ -5,7 +5,7 @@
 
 <!-- 仪表盘区域 -->
 ![Status](https://img.shields.io/badge/System_Status-Active_%26_Scaling-success?style=for-the-badge&logo=statuspage&logoColor=white)
-![Kernel](https://img.shields.io/badge/Kernel_Version-v4.3-0052cc?style=for-the-badge&logo=linux&logoColor=white)
+![Kernel](https://img.shields.io/badge/Kernel_Version-v4.8-0052cc?style=for-the-badge&logo=linux&logoColor=white)
 ![Last Update](https://img.shields.io/badge/Last_Update-2026.01.15-555555?style=for-the-badge&logo=git&logoColor=white)
 <br>
 
